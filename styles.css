@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	background-color: yellow;
+	text-align: center
+}
+#f1{
+	color: darkgreen
+}
+#f2{
+	color: crimson;
+}
+p{
+	font-size: 18px
+}
